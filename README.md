@@ -1,3 +1,3 @@
-# To access the Playlist click on the below link -- https://rohitnalavade1404.github.io/Restaurant-Website-Using-HTML-CSS/
+# To access the Website click on the below link (it will take time to load all the content) -- https://rohitnalavade1404.github.io/Restaurant-Website-Using-HTML-CSS/
 
 This is simple Restaurant Website made with HTML and CSS. One can use this code for reference in microproject. To work it properly download all the content html,css files including images and put it in a single folder. After that run in VS code for accessing it. I have uploaded all the files and images used for creating this web-site. The cards taken in the page is with the help of bootstrap. Bootstrap helps to make a responsive website on any device. bootstrap has made it easier to create a website in less time.
