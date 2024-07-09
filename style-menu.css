@@ -1,0 +1,52 @@
+
+      /* BACKROUND CSS */
+.back{
+    background-color: rgb(249, 226, 196);
+ max-width: 100%;
+ max-height: 100%;
+}
+     /* NAVBAR CSS */
+nav {
+    height: 11vh;
+    font-style: italic; 
+}
+nav h2{
+  color: white;
+  padding: 10px;
+}
+nav span{
+  color: white;
+}
+nav li{
+    padding: 20px;
+}
+
+      /* CARD CSS */
+.card-body{
+     background-color: rgb(33, 33, 32); 
+}
+
+.card-text{
+    color: aliceblue;  
+}
+
+ .card-title{
+    color: aliceblue; 
+}
+
+.first{
+    padding-top: 40px;
+}
+
+.last{
+    padding-bottom: 40px;
+}
+
+button{
+    background-color: red;
+    color: aliceblue;
+}
+
+.col-md-3 h5{
+    color: rgb(255, 255, 255);
+}

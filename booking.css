@@ -1,0 +1,67 @@
+nav {
+    height: 11vh;
+    font-style: italic; 
+}
+nav h2{
+  color: white;
+  padding: 10px;
+}
+nav span{
+  color: white;
+}
+nav li{
+    padding: 20px;
+}
+body{
+    background-image: url(bg2.jpeg);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    font-style: italic;
+    
+    
+    
+}
+.col-md-4{
+    /* margin-left: 20px; */
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-top: 50px;
+
+}
+
+.container-fluid{
+    color: white;
+    font-size: large;
+    
+    }
+.textarea1 label {
+    display: inline-block;
+    font-size: small;
+    margin-left: 5px;
+    width: 100px;
+    text-align: right;
+}
+.textarea1 input {
+    margin-right: 9px;
+    display: inline-block;
+    width: 21%;
+    min-width: 30px;
+    vertical-align: top;
+}
+
+textarea{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.button{
+    align-content: center;
+    align-items: center;
+}
+
